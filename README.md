@@ -1,14 +1,14 @@
 # Awesome Cloud Security
 
 ## Table of Contents
-* [Blogs](#Blogs)
-* [Podcasts](#Podcasts)
-* [Projects](#Projects)
-* [Examples](#Examples)
-  * [IAM](#IAM)
-  * [Automated Security Assessment](#Automated-Security-Assessment)
-  * [Data Loss Prevention](#Data-Loss-Prevention)
-  * [Logging](#Logging)
+* [Blogs](#blogs)
+* [Podcasts](#podcasts)
+* [Projects](#projects)
+* [Examples](#examples)
+  * [IAM](#iam)
+  * [Automated Security Assessment](#automated-security-assessment)
+  * [Data Loss Prevention](#data-loss-prevention)
+  * [Logging](#logging)
 
 ## Blogs
 * [AWS Security](https://aws.amazon.com/blogs/security/)
