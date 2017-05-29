@@ -9,8 +9,9 @@
 * [Podcasts](#podcasts)
 * [Cloud Security Standards](#cloud-security-standards)
 * [Projects](#projects)
-  * [Data Loss Prevention](#data-loss-prevention)
   * [Benchmarking](#benchmarking)
+  * [Data Loss Prevention](#data-loss-prevention)
+  * [Spring](#spring)
 * [Examples](#examples)
   * [Identity and Access Mangement](#identity-and-access-management)
   * [Automated Security Assessment](#automated-security-assessment)
@@ -32,13 +33,17 @@
 * [NIST 800-53](https://nvd.nist.gov/800-53)
 ## Projects
 
+### Benchmarking
+
+* [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
+
 ### Data Loss Prevention
 
 * [Git Secrets](https://github.com/awslabs/git-secrets)
 
-### Benchmarking
+### Spring
 
-* [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
+* [Spring Cloud Security](https://github.com/dschadow/CloudSecurity)
 
 ## Examples
 
