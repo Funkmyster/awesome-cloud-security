@@ -1,12 +1,13 @@
 # Awesome Cloud Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> cloud security information
+> Cloud Security blogs, podcasts, standards, projects, and examples.
 
 
 ## Contents
 
 * [Blogs](#blogs)
 * [Podcasts](#podcasts)
+* [Cloud Security Standards](#cloud-security-standards)
 * [Projects](#projects)
   * [Data Loss Prevention](#data-loss-prevention)
   * [Benchmarking](#benchmarking)
@@ -23,6 +24,12 @@
 
 ## Podcasts
 
+## Cloud Security Standards
+
+* [ISO/IEC 27017:2015](https://www.iso.org/standard/43757.html)
+* [MTCS SS 584](https://www.imda.gov.sg/industry-development/infrastructure/ict-standards-and-frameworks/mtcs-certification-scheme/multi-tier-cloud-security-certified-cloud-services)
+* [CSC](https://cloudsecurityalliance.org/group/cloud-controls-matrix)
+* [NIST 800-53](https://nvd.nist.gov/800-53)
 ## Projects
 
 ### Data Loss Prevention
