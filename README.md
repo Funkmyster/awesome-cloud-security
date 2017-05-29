@@ -8,10 +8,11 @@
 * [Blogs](#blogs)
 * [Podcasts](#podcasts)
 * [Projects](#projects)
-* [Examples](#examples)
-  * [IAM](#iam)
-  * [Automated Security Assessment](#automated-security-assessment)
   * [Data Loss Prevention](#data-loss-prevention)
+  * [Benchmarking](#benchmarking)
+* [Examples](#examples)
+  * [Identity and Access Mangement](#identity-and-access-management)
+  * [Automated Security Assessment](#automated-security-assessment)
   * [Logging](#logging)
 * [Contribute](#contribute)
 * [License](#license)
@@ -24,11 +25,17 @@
 
 ## Projects
 
+### Data Loss Prevention
+
+* [Git Secrets](https://github.com/awslabs/git-secrets)
+
+### Benchmarking
+
+* [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
+
 ## Examples
 
-### IAM
-
-Identity and Access Management
+### Identity and Access Management
 
 * [Amazon Cognito Streams connector for Amazon Redshift](https://github.com/awslabs/amazon-cognito-streams-sample)
 
@@ -39,11 +46,6 @@ Identity and Access Management
 * [AWS Inspector Agent Autodeploy](https://github.com/awslabs/amazon-inspector-agent-autodeploy)
 * [AWS Inspector Auto Remediation](https://github.com/awslabs/amazon-inspector-auto-remediate)
 * [AWS Inspector Lambda Finding Processor](https://github.com/awslabs/amazon-inspector-finding-forwarder)
-* [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
-
-### Data Loss Prevention
-
-* [GIT Secrets](https://github.com/awslabs/git-secrets)
 
 ### Logging
 
