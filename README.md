@@ -28,7 +28,7 @@
 
 * [ISO/IEC 27017:2015](https://www.iso.org/standard/43757.html)
 * [MTCS SS 584](https://www.imda.gov.sg/industry-development/infrastructure/ict-standards-and-frameworks/mtcs-certification-scheme/multi-tier-cloud-security-certified-cloud-services)
-* [CSC](https://cloudsecurityalliance.org/group/cloud-controls-matrix)
+* [CCM](https://cloudsecurityalliance.org/group/cloud-controls-matrix)
 * [NIST 800-53](https://nvd.nist.gov/800-53)
 ## Projects
 
