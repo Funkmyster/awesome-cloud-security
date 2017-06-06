@@ -11,11 +11,12 @@
 * [Projects](#projects)
   * [Benchmarking](#benchmarking)
   * [Data Loss Prevention](#data-loss-prevention)
+  * [Identity and Access Mangement](#identity-and-access-management)
   * [Spring](#spring)
 * [Examples](#examples)
-  * [Identity and Access Mangement](#identity-and-access-management)
-  * [Automated Security Assessment](#automated-security-assessment)
-  * [Logging](#logging)
+  * [Identity and Access Mangement](#ex-identity-and-access-management)
+  * [Automated Security Assessment](#ex-automated-security-assessment)
+  * [Logging](#ex-logging)
 * [Contribute](#contribute)
 * [License](#license)
 
@@ -41,34 +42,36 @@
 
 * [Git Secrets by awslabs](https://github.com/awslabs/git-secrets)
 
+### Identity and Access Management
+* [Aardvark by Netflix](https://github.com/Netflix-Skunkworks/aardvark)
+* [Repokid by Netflix](https://github.com/Netflix/Repokid)
+
 ### Spring
 
 * [Spring Cloud Security](https://github.com/dschadow/CloudSecurity)
 
 ## Examples
 
-### Identity and Access Management
+### Ex. Identity and Access Management
 
 * [Amazon Cognito Streams connector for Amazon Redshift](https://github.com/awslabs/amazon-cognito-streams-sample)
-* [Aardvark by Netflix](https://github.com/Netflix-Skunkworks/aardvark)
-* [Repokid by Netflix](https://github.com/Netflix/Repokid)
 
 
-### Automated Security Assessment
+### Ex. Automated Security Assessment
 
 * [AWS Config Rules Repository](https://github.com/awslabs/aws-config-rules)
 * [AWS Inspector Agent Autodeploy](https://github.com/awslabs/amazon-inspector-agent-autodeploy)
 * [AWS Inspector Auto Remediation](https://github.com/awslabs/amazon-inspector-auto-remediate)
 * [AWS Inspector Lambda Finding Processor](https://github.com/awslabs/amazon-inspector-finding-forwarder)
 
-### Logging
+### Ex. Logging
 
 * [AWS Centralized Logging](https://github.com/awslabs/aws-centralized-logging)
 * [AWS Config Snapshots to ElasticSearch](https://github.com/awslabs/aws-config-to-elasticsearch)
 * [AWS CloudWatch Events Monitor Security Groups](https://github.com/awslabs/cwe-monitor-secgrp)
 
 
-### Web Application Firewall
+### Ex. Web Application Firewall
 
 * [AWS WAF Sample](https://github.com/awslabs/aws-waf-sample)
 * [AWS WAF Security Automations](https://github.com/awslabs/aws-waf-security-automations)
