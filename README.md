@@ -14,8 +14,8 @@
   * [Identity and Access Mangement](#identity-and-access-management)
   * [Spring](#spring)
 * [Examples](#examples)
-  * [Identity and Access Mangement](#ex-identity-and-access-management)
   * [Automated Security Assessment](#ex-automated-security-assessment)
+  * [Identity and Access Mangement](#ex-identity-and-access-management)
   * [Logging](#ex-logging)
 * [Contribute](#contribute)
 * [License](#license)
@@ -52,11 +52,6 @@
 
 ## Examples
 
-### Ex. Identity and Access Management
-
-* [Amazon Cognito Streams connector for Amazon Redshift](https://github.com/awslabs/amazon-cognito-streams-sample)
-
-
 ### Ex. Automated Security Assessment
 
 * [AWS Config Rules Repository](https://github.com/awslabs/aws-config-rules)
@@ -64,12 +59,15 @@
 * [AWS Inspector Auto Remediation](https://github.com/awslabs/amazon-inspector-auto-remediate)
 * [AWS Inspector Lambda Finding Processor](https://github.com/awslabs/amazon-inspector-finding-forwarder)
 
+### Ex. Identity and Access Management
+
+* [Amazon Cognito Streams connector for Amazon Redshift](https://github.com/awslabs/amazon-cognito-streams-sample)
+
 ### Ex. Logging
 
 * [AWS Centralized Logging](https://github.com/awslabs/aws-centralized-logging)
 * [AWS Config Snapshots to ElasticSearch](https://github.com/awslabs/aws-config-to-elasticsearch)
 * [AWS CloudWatch Events Monitor Security Groups](https://github.com/awslabs/cwe-monitor-secgrp)
-
 
 ### Ex. Web Application Firewall
 
