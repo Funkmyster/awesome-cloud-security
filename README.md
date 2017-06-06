@@ -39,7 +39,7 @@
 
 ### Data Loss Prevention
 
-* [Git Secrets](https://github.com/awslabs/git-secrets)
+* [Git Secrets by awslabs](https://github.com/awslabs/git-secrets)
 
 ### Spring
 
@@ -50,6 +50,8 @@
 ### Identity and Access Management
 
 * [Amazon Cognito Streams connector for Amazon Redshift](https://github.com/awslabs/amazon-cognito-streams-sample)
+* [Aardvark by Netflix](https://github.com/Netflix-Skunkworks/aardvark)
+* [Repokid by Netflix](https://github.com/Netflix/Repokid)
 
 
 ### Automated Security Assessment
