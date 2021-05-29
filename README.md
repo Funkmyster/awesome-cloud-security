@@ -5,9 +5,16 @@
 
 ## Contents
 
-* [Blogs](#blogs)
-* [Podcasts](#podcasts)
+* [Public Cloud](#public-cloud)
+* [Containers](#containers)
+  * [Vulnerability Scanning](#vuln)
+    * [Static](#static-analysis)
+    * [Dynamic](#dynamic-analysis)
+  * [Kubernetes](#kubernetes)
 * [Cloud Security Standards](#cloud-security-standards)
+* [Learning](#learning)
+  * [Blogs](#blogs)
+  * [Podcasts](#podcasts)
 * [Projects](#projects)
   * [Benchmarking](#benchmarking)
   * [Data Loss Prevention](#data-loss-prevention)
@@ -20,18 +27,26 @@
 * [Contribute](#contribute)
 * [License](#license)
 
-## Blogs
-
-* [AWS Security](https://aws.amazon.com/blogs/security/)
-
-## Podcasts
-
+## Public Cloud
+## Containers
+### Vulnerability Scanning
+#### Static Analysis
+#### Dynamic Analysis
+### Kubernetes
 ## Cloud Security Standards
 
 * [ISO/IEC 27017:2015](https://www.iso.org/standard/43757.html)
 * [MTCS SS 584](https://www.imda.gov.sg/industry-development/infrastructure/ict-standards-and-frameworks/mtcs-certification-scheme/multi-tier-cloud-security-certified-cloud-services)
 * [CCM](https://cloudsecurityalliance.org/group/cloud-controls-matrix)
 * [NIST 800-53](https://nvd.nist.gov/800-53)
+## Learning
+
+### Blogs
+
+* [AWS Security](https://aws.amazon.com/blogs/security/)
+
+### Podcasts
+
 ## Projects
 
 ### Benchmarking
