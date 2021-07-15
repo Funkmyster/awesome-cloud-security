@@ -30,9 +30,10 @@
 * [License](#license)
 ## Public Cloud
 ## Kubernetes Operators
+* Aqua
+  * [Aqua Security Operator](https://operatorhub.io/operator/aqua)
+  * [Starboard Operator](https://operatorhub.io/operator/starboard-operator)
 * [Anchore - Anchore Engine Operator](https://operatorhub.io/operator/anchore-engine)
-* [Aqua Security - Aqua Security Operator](https://operatorhub.io/operator/aqua)
-* [Aqua Security - Starboard Operator](https://operatorhub.io/operator/starboard-operator)
 * [Falco Security - Falco Operator](https://operatorhub.io/operator/falco)
 * [Quay - Project Quay Container Security](https://operatorhub.io/operator/project-quay-container-security-operator)
 * [Snyk - Snyk Operator](https://operatorhub.io/operator/snyk-operator)
@@ -40,15 +41,17 @@
 * [Sysdig - Sysdig Agent Operator](https://operatorhub.io/operator/sysdig)
 
 ## Tools
-* [Anchore - Anchore Engine](https://github.com/anchore/anchore-engine)
-* [Anchore - Grype](https://github.com/anchore/grype)
-* [Anchore - Kai](https://github.com/anchore/kai)
-* [Anchore - Syft](https://github.com/anchore/syft)
-* [Aqua Security - Cloudsploit](https://github.com/aquasecurity/cloudsploit)
-* [Aqua Security - Kube-Bench](https://github.com/aquasecurity/kube-bench)
-* [Aqua Security - Kube-Hunter](https://github.com/aquasecurity/kube-hunter)
-* [Aqua Security - Kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can)
-* [Aqua Security - Trivy](https://github.com/aquasecurity/trivy)
+* Anchore
+  * [ Anchore Engine](https://github.com/anchore/anchore-engine)
+  * [Grype](https://github.com/anchore/grype)
+  * [Kai](https://github.com/anchore/kai)
+  * [Syft](https://github.com/anchore/syft)
+* Aqua
+  * [Cloudsploit](https://github.com/aquasecurity/cloudsploit)
+  * [Kube-Bench](https://github.com/aquasecurity/kube-bench)
+  * [Kube-Hunter](https://github.com/aquasecurity/kube-hunter)
+  * [Kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can)
+  * [Trivy](https://github.com/aquasecurity/trivy)
 * [Docker - Docker Bench for Security](https://github.com/docker/docker-bench-security)
 * [Elias - Dagda](https://github.com/eliasgranderubio/dagda/)
 * [Falco Security - Falco](https://github.com/falcosecurity/falco)
@@ -75,20 +78,25 @@
 ### Data Loss Prevention
 * [Git Secrets by awslabs](https://github.com/awslabs/git-secrets)
 ### Identity and Access Management
-* [Aardvark by Netflix](https://github.com/Netflix-Skunkworks/aardvark)
-* [ConsoleMe by Netflix](https://github.com/Netflix/consoleme)
-* [Repokid by Netflix](https://github.com/Netflix/Repokid)
-* [Policy Sentry by Salesforce](https://github.com/salesforce/policy_sentry/)
-* [CloudSplaining by Salesforce](https://github.com/salesforce/cloudsplaining)
-* [AWS-AllowLister by Salesforce](https://github.com/salesforce/aws-allowlister)
-* [Terraform for Policy Guru by Salesforce](https://github.com/salesforce/terraform-provider-policyguru)
+* Awesome Lists
+  * [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
+* AWS Labs
+  * [AWS IAM Generator](https://github.com/awslabs/aws-iam-generator)
+* Duo Labs
+  * [Parliament](https://github.com/duo-labs/parliament)
+  * [CloudTracker](https://github.com/duo-labs/cloudtracker)
+* Netflix
+  * [Aardvark](https://github.com/Netflix-Skunkworks/aardvark)
+  * [ConsoleMe](https://github.com/Netflix/consoleme)
+  * [Repokid](https://github.com/Netflix/Repokid)
+* Salesforce
+  * [Policy Sentry](https://github.com/salesforce/policy_sentry/)
+  * [CloudSplaining](https://github.com/salesforce/cloudsplaining)
+  * [AWS-AllowLister](https://github.com/salesforce/aws-allowlister)
+  * [Terraform for Policy Guru](https://github.com/salesforce/terraform-provider-policyguru)
 * [Kubernetes AWS IAM Authenticator by Kubernetes SIG](https://github.com/kubernetes-sigs/aws-iam-authenticator)
-* [Parliament by Duo Labs](https://github.com/duo-labs/parliament)
-* [CloudTracker by Duo Labs](https://github.com/duo-labs/cloudtracker)
 * [AWS Missing Tools by CloudAvail](https://github.com/cloudavail/aws-missing-tools)
 * [Enumerate IAM by Andres Riancho](https://github.com/andresriancho/enumerate-iam)
-* [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
-* [AWS IAM Generator by AWS Labs](https://github.com/awslabs/aws-iam-generator)
 ### Incident Response
 * [PagerDuty Incident Response Docs](https://github.com/PagerDuty/incident-response-docs)
 * [Awesome Incident Response List](https://github.com/meirwah/awesome-incident-response)
