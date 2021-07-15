@@ -16,6 +16,7 @@
   * [Labs](#labs)
 * [Certifications](#certifications)
 * [Projects](#projects)
+  * [Alerting](#alerting)
   * [Benchmarking](#benchmarking)
   * [Data Loss Prevention](#data-loss-prevention)
   * [Identity and Access Mangement](#identity-and-access-management)
@@ -64,13 +65,19 @@
 * [AWS Security](https://aws.amazon.com/blogs/security/)
 ### Podcasts
 ## Projects
+### Alerting
+* [411 by Etsy](https://github.com/etsy/411)
+* [ElastAlert by Yelp](https://github.com/Yelp/elastalert)
+* [StreamAlert by Airbnb](https://github.com/airbnb/streamalert)
 ### Benchmarking
 * [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
 ### Data Loss Prevention
 * [Git Secrets by awslabs](https://github.com/awslabs/git-secrets)
 ### Identity and Access Management
 * [Aardvark by Netflix](https://github.com/Netflix-Skunkworks/aardvark)
+* [ConsoleMe by Netflix](https://github.com/Netflix/consoleme)
 * [Repokid by Netflix](https://github.com/Netflix/Repokid)
+* [Policy Sentry by Salesforce](https://github.com/salesforce/policy_sentry/)
 ### Spring
 * [Spring Cloud Security](https://github.com/dschadow/CloudSecurity)
 ## Examples
