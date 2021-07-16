@@ -23,7 +23,7 @@
   * [Spring](#spring)
 * [Examples](#examples)
   * [Automated Security Assessment](#ex-automated-security-assessment)
-  * [Identity and Access Mangement](#ex-identity-and-access-management)
+  * [Identity and Access Management](#ex-identity-and-access-management)
   * [Logging](#ex-logging)
 * [Misc](#misc)
   * [Other Awesome Lists](#other-awesome-lists)
