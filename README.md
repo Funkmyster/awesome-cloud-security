@@ -74,11 +74,15 @@
 ## Learning
 ### Blogs
 * [AWS Security](https://aws.amazon.com/blogs/security/)
+* [Azure Security](https://www.microsoft.com/security/blog/azure-security/)
+* [Dark Reading](https://www.darkreading.com/cloud-security.asp)
 ### Courses
 * [Oracle Cloud Security Administrator](https://learn.oracle.com/ols/learning-path/become-a-cloud-security-administrator/35644/38707)
 ### Labs
 * [PagerDuty Security Training](https://github.com/PagerDuty/security-training)
 ### Podcasts
+* [Security Now](https://twit.tv/shows/security-now)
+* [Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com)
 ## Certifications
 * Cloud Vendors
   * [AWS Certified Security Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
