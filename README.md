@@ -49,7 +49,7 @@
 
 ## Container Tools
 * Anchore
-  * [ Anchore Engine](https://github.com/anchore/anchore-engine)
+  * [Anchore Engine](https://github.com/anchore/anchore-engine)
   * [Grype](https://github.com/anchore/grype)
   * [Kai](https://github.com/anchore/kai)
   * [Syft](https://github.com/anchore/syft)
@@ -100,8 +100,6 @@
 ### Data Loss Prevention
 * [Git Secrets by AWS Labs](https://github.com/awslabs/git-secrets)
 ### Identity and Access Management
-* Awesome Lists
-  * [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
 * AWS Labs
   * [AWS IAM Generator](https://github.com/awslabs/aws-iam-generator)
 * Duo Labs
@@ -116,9 +114,11 @@
   * [CloudSplaining](https://github.com/salesforce/cloudsplaining)
   * [AWS-AllowLister](https://github.com/salesforce/aws-allowlister)
   * [Terraform for Policy Guru](https://github.com/salesforce/terraform-provider-policyguru)
-* [Kubernetes AWS IAM Authenticator by Kubernetes SIG](https://github.com/kubernetes-sigs/aws-iam-authenticator)
-* [AWS Missing Tools by CloudAvail](https://github.com/cloudavail/aws-missing-tools)
-* [Enumerate IAM by Andres Riancho](https://github.com/andresriancho/enumerate-iam)
+* Misc
+  * [AWS Missing Tools by CloudAvail](https://github.com/cloudavail/aws-missing-tools)
+  * [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
+  * [Enumerate IAM by Andres Riancho](https://github.com/andresriancho/enumerate-iam)
+  * [Kubernetes AWS IAM Authenticator by Kubernetes SIG](https://github.com/kubernetes-sigs/aws-iam-authenticator)
 ### Incident Response
 * AWS
   * [AWS Incident Response Playbooks by AWS Samples](https://github.com/aws-samples/aws-incident-response-playbooks)
@@ -155,12 +155,12 @@
 * [AWS WAF Sample](https://github.com/awslabs/aws-waf-sample)
 * [AWS WAF Security Automations](https://github.com/awslabs/aws-waf-security-automations)
 ## Misc
-### Other Awesome Lists
-* [Awesome Cloud Native Security](https://github.com/brant-ruan/awesome-cloud-native-security)
-* [Awesome Cloud Security](https://github.com/Funkmyster/awesome-cloud-security)
-* [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
-* [Awesome Incident Response List](https://github.com/meirwah/awesome-incident-response)
-* [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries)
+* Other Awesome Lists
+  * [Awesome Cloud Native Security](https://github.com/brant-ruan/awesome-cloud-native-security)
+  * [Awesome Cloud Security](https://github.com/Funkmyster/awesome-cloud-security)
+  * [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
+  * [Awesome Incident Response List](https://github.com/meirwah/awesome-incident-response)
+  * [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries)
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 ## License
