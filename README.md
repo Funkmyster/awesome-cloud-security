@@ -1,10 +1,8 @@
 # Awesome Cloud Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > Cloud Security blogs, podcasts, standards, projects, and examples.
 ## Contents
-* [Public Cloud](#public-cloud-services)
-  * [AWS Security](#aws-security)
-  * [Azure Security](#azure-security)
-  * [Oracle Cloud Security](#oracle-cloud-security)
+* [Public Cloud Governance](#public-cloud-governance)
+  * [AWS Governance](#aws-governance)
 * [Containers](#containers)
   * [Docker Images](#docker-images)
   * [Kubernetes Operators](#kubernetes-operators)
@@ -15,6 +13,9 @@
   * [Podcasts](#podcasts)
   * [Labs](#labs)
 * [Certifications](#certifications)
+  * [Cloud Vendors](#cloud-vendors)
+  * [ISC<sup>2</sup>](#ISC)
+  * [CSA](#CSA-cloud-security-alliance)
 * [Projects](#projects)
   * [Alerting](#alerting)
   * [Benchmarking](#benchmarking)
@@ -28,8 +29,8 @@
   * [Logging](#ex-logging)
 * [Contribute](#contribute)
 * [License](#license)
-## Public Cloud
-### AWS Security
+## Public Cloud Governance
+### AWS Governance
 * [AWS CodePipeline Governance](https://github.com/awslabs/aws-codepipeline-governance)
 * [AWS Config Rules Development Kit](https://github.com/awslabs/aws-config-rdklib)
 * [AWS Control Tower Customizations](https://github.com/awslabs/aws-control-tower-customizations)
@@ -137,6 +138,9 @@
   * [PagerDuty Retrospectives Docs](https://github.com/PagerDuty/retrospectives-docs)
   * [PagerDuty Stakeholder Communication Docs](https://github.com/PagerDuty/stakeholder-comms-docs)
 * Misc
+  * [Awesome Cloud Native Security](https://github.com/brant-ruan/awesome-cloud-native-security)
+  * [Awesome Cloud Security](https://github.com/Funkmyster/awesome-cloud-security)
+  * [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
   * [Awesome Incident Response List](https://github.com/meirwah/awesome-incident-response)
 ### Spring
 * [Spring Cloud Security](https://github.com/dschadow/CloudSecurity)
@@ -155,6 +159,9 @@
 ### Ex. Web Application Firewall
 * [AWS WAF Sample](https://github.com/awslabs/aws-waf-sample)
 * [AWS WAF Security Automations](https://github.com/awslabs/aws-waf-security-automations)
+## Misc
+### Other Awesome Lists
+* [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries)
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 ## License
