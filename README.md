@@ -6,16 +6,14 @@
 * [Containers](#containers)
   * [Docker Images](#docker-images)
   * [Kubernetes Operators](#kubernetes-operators)
-  * [Tools](#tools)
+  * [Container Tools](#container-tools)
 * [Cloud Security Standards](#cloud-security-standards)
 * [Learning](#learning)
   * [Blogs](#blogs)
-  * [Podcasts](#podcasts)
+  * [Courses](#courses)
   * [Labs](#labs)
+  * [Podcasts](#podcasts)
 * [Certifications](#certifications)
-  * [Cloud Vendors](#cloud-vendors)
-  * [ISC<sup>2</sup>](#ISC)
-  * [CSA](#CSA-cloud-security-alliance)
 * [Projects](#projects)
   * [Alerting](#alerting)
   * [Benchmarking](#benchmarking)
@@ -27,6 +25,8 @@
   * [Automated Security Assessment](#ex-automated-security-assessment)
   * [Identity and Access Mangement](#ex-identity-and-access-management)
   * [Logging](#ex-logging)
+* [Misc](#misc)
+  * [Other Awesome Lists](#other-awesome-lists)
 * [Contribute](#contribute)
 * [License](#license)
 ## Public Cloud Governance
@@ -47,7 +47,7 @@
 * [Splunk - Splunk Operator for Kubernetes](https://operatorhub.io/operator/splunk)
 * [Sysdig - Sysdig Agent Operator](https://operatorhub.io/operator/sysdig)
 
-## Tools
+## Container Tools
 * Anchore
   * [ Anchore Engine](https://github.com/anchore/anchore-engine)
   * [Grype](https://github.com/anchore/grype)
@@ -74,11 +74,11 @@
 ## Learning
 ### Blogs
 * [AWS Security](https://aws.amazon.com/blogs/security/)
-### Podcasts
-### Labs
-* [PagerDuty Security Training](https://github.com/PagerDuty/security-training)
 ### Courses
 * [Oracle Cloud Security Administrator](https://learn.oracle.com/ols/learning-path/become-a-cloud-security-administrator/35644/38707)
+### Labs
+* [PagerDuty Security Training](https://github.com/PagerDuty/security-training)
+### Podcasts
 ## Certifications
 * Cloud Vendors
   * [AWS Certified Security Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
@@ -137,11 +137,6 @@
   * [PagerDuty PostMortem Docs](https://github.com/PagerDuty/postmortem-docs)
   * [PagerDuty Retrospectives Docs](https://github.com/PagerDuty/retrospectives-docs)
   * [PagerDuty Stakeholder Communication Docs](https://github.com/PagerDuty/stakeholder-comms-docs)
-* Misc
-  * [Awesome Cloud Native Security](https://github.com/brant-ruan/awesome-cloud-native-security)
-  * [Awesome Cloud Security](https://github.com/Funkmyster/awesome-cloud-security)
-  * [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
-  * [Awesome Incident Response List](https://github.com/meirwah/awesome-incident-response)
 ### Spring
 * [Spring Cloud Security](https://github.com/dschadow/CloudSecurity)
 ## Examples
@@ -161,6 +156,10 @@
 * [AWS WAF Security Automations](https://github.com/awslabs/aws-waf-security-automations)
 ## Misc
 ### Other Awesome Lists
+* [Awesome Cloud Native Security](https://github.com/brant-ruan/awesome-cloud-native-security)
+* [Awesome Cloud Security](https://github.com/Funkmyster/awesome-cloud-security)
+* [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
+* [Awesome Incident Response List](https://github.com/meirwah/awesome-incident-response)
 * [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries)
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
