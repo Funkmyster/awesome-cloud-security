@@ -111,7 +111,7 @@
   * [Protecting workloads on AWS from the instance to the edge](https://protecting-workloads.awssecworkshops.com/workshop/)
   * [Scaling threat detection and response on AWS](https://scaling-threat-detection.awssecworkshops.com/)
   * [Serverless Identity](https://identity-round-robin.awssecworkshops.com/serverless/)
-* [PagerDuty Training](https://sudo.pagerduty.com)
+* [PagerDuty Training Lab](https://sudo.pagerduty.com)
   * [PagerDuty Training GitHub](https://github.com/PagerDuty/security-training)
   * [PagerDuty Training for Engineers](https://sudo.pagerduty.com/for_engineers/)
   * [PagerDuty Training for Everyone: Part 1](https://sudo.pagerduty.com/for_everyone/)
