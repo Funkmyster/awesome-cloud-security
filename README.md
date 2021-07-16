@@ -76,6 +76,19 @@
 ### Podcasts
 ### Labs
 * [PagerDuty Security Training](https://github.com/PagerDuty/security-training)
+### Courses
+* [Oracle Cloud Security Administrator](https://learn.oracle.com/ols/learning-path/become-a-cloud-security-administrator/35644/38707)
+## Certifications
+* Cloud Vendors
+  * [AWS Certified Security Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
+  * [Azure Security Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-security-engineer/)
+  * [Google Professional Cloud Security Engineer](https://cloud.google.com/certification/cloud-security-engineer)
+  * [Oracle Cloud Platform Identity and Security Management](https://education.oracle.com/oracle-cloud-platform-identity-and-security-management-2020-certified-specialist/trackp_OCPISM2020CA)
+* ISC<sup>2</sup> - International Information System Security Certification Consortium
+  * [CCSP - Certified Cloud Security Professional](https://www.isc2.org/Certifications/CCSP)
+* CSA - Cloud Security Alliance
+  * [CCSK - Certificate of Cloud Security Knowledge](https://cloudsecurityalliance.org/education/ccsk/)
+  * [CCAK - Certificate of Cloud Auditing Knowledge](https://cloudsecurityalliance.org/education/ccak/)
 ## Projects
 ### Alerting
 * [411 by Etsy](https://github.com/etsy/411)
