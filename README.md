@@ -77,7 +77,13 @@
 * [Azure Security](https://www.microsoft.com/security/blog/azure-security/)
 * [Dark Reading](https://www.darkreading.com/cloud-security.asp)
 ### Courses
-* [Oracle Cloud Security Administrator](https://learn.oracle.com/ols/learning-path/become-a-cloud-security-administrator/35644/38707)
+* Oracle
+  * [Oracle Cloud Security Administrator](https://learn.oracle.com/ols/learning-path/become-a-cloud-security-administrator/35644/38707)
+* A Cloud Guru
+  * Learning Paths
+    * [AWS Security Path](https://learn.acloud.guru/learning-path/aws-security)
+    * [Azure Security Path](https://learn.acloud.guru/learning-path/azure-security)
+    * [GCP Security Path](https://learn.acloud.guru/learning-path/gcp-security)
 ### Labs
 * [PagerDuty Security Training](https://github.com/PagerDuty/security-training)
 ### Podcasts
