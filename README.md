@@ -40,12 +40,13 @@
 * Aqua
   * [Aqua Security Operator](https://operatorhub.io/operator/aqua)
   * [Starboard Operator](https://operatorhub.io/operator/starboard-operator)
-* [Anchore - Anchore Engine Operator](https://operatorhub.io/operator/anchore-engine)
-* [Falco Security - Falco Operator](https://operatorhub.io/operator/falco)
-* [Quay - Project Quay Container Security](https://operatorhub.io/operator/project-quay-container-security-operator)
-* [Snyk - Snyk Operator](https://operatorhub.io/operator/snyk-operator)
-* [Splunk - Splunk Operator for Kubernetes](https://operatorhub.io/operator/splunk)
-* [Sysdig - Sysdig Agent Operator](https://operatorhub.io/operator/sysdig)
+* Misc
+  * [Anchore - Anchore Engine Operator](https://operatorhub.io/operator/anchore-engine)
+  * [Falco Security - Falco Operator](https://operatorhub.io/operator/falco)
+  * [Quay - Project Quay Container Security](https://operatorhub.io/operator/project-quay-container-security-operator)
+  * [Snyk - Snyk Operator](https://operatorhub.io/operator/snyk-operator)
+  * [Splunk - Splunk Operator for Kubernetes](https://operatorhub.io/operator/splunk)
+  * [Sysdig - Sysdig Agent Operator](https://operatorhub.io/operator/sysdig)
 
 ## Container Tools
 * Anchore
