@@ -29,6 +29,12 @@
 * [Contribute](#contribute)
 * [License](#license)
 ## Public Cloud
+### AWS Security
+* [AWS CodePipeline Governance](https://github.com/awslabs/aws-codepipeline-governance)
+* [AWS Config Rules Development Kit](https://github.com/awslabs/aws-config-rdklib)
+* [AWS Control Tower Customizations](https://github.com/awslabs/aws-control-tower-customizations)
+* [AWS Security Hub Automated Response and Remediation](https://github.com/awslabs/aws-security-hub-automated-response-and-remediation)
+* [AWS Well Architected Labs](https://github.com/awslabs/aws-well-architected-labs)
 ## Kubernetes Operators
 * Aqua
   * [Aqua Security Operator](https://operatorhub.io/operator/aqua)
@@ -76,7 +82,7 @@
 ### Benchmarking
 * [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
 ### Data Loss Prevention
-* [Git Secrets by awslabs](https://github.com/awslabs/git-secrets)
+* [Git Secrets by AWS Labs](https://github.com/awslabs/git-secrets)
 ### Identity and Access Management
 * Awesome Lists
   * [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
@@ -102,6 +108,7 @@
 * [Awesome Incident Response List](https://github.com/meirwah/awesome-incident-response)
 * [Dispatch by Netflix](https://github.com/Netflix/dispatch)
 * [AWS Incident Response Playbooks by AWS Samples](https://github.com/aws-samples/aws-incident-response-playbooks)
+* [AWS Security Hub Automated Response and Remediation](https://github.com/awslabs/aws-security-hub-automated-response-and-remediation)
 ### Spring
 * [Spring Cloud Security](https://github.com/dschadow/CloudSecurity)
 ## Examples
