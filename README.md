@@ -18,7 +18,7 @@
   * [Alerting](#alerting)
   * [Benchmarking](#benchmarking)
   * [Data Loss Prevention](#data-loss-prevention)
-  * [Identity and Access Mangement](#identity-and-access-management)
+  * [Identity and Access Management](#identity-and-access-management)
   * [Incident Response](#incident-response)
   * [Spring](#spring)
 * [Examples](#examples)
