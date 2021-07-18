@@ -36,6 +36,7 @@
 * [AWS Control Tower Customizations](https://github.com/awslabs/aws-control-tower-customizations)
 * [AWS Security Hub Automated Response and Remediation](https://github.com/awslabs/aws-security-hub-automated-response-and-remediation)
 * [AWS Well Architected Labs](https://github.com/awslabs/aws-well-architected-labs)
+* [AWS Vault](https://github.com/99designs/aws-vault)
 ## Kubernetes Operators
 * Aqua
   * [Aqua Security Operator](https://operatorhub.io/operator/aqua)
