@@ -158,7 +158,10 @@
 * Netflix
   * [Aardvark](https://github.com/Netflix-Skunkworks/aardvark)
   * [ConsoleMe](https://github.com/Netflix/consoleme)
+  * [PolicyUniverse](https://github.com/Netflix-Skunkworks/policyuniverse)
   * [Repokid](https://github.com/Netflix/Repokid)
+* Pinterest
+  * [Knox](https://github.com/pinterest/knox)
 * Salesforce
   * [Policy Sentry](https://github.com/salesforce/policy_sentry/)
   * [CloudSplaining](https://github.com/salesforce/cloudsplaining)
