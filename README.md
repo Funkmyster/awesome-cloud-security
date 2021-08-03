@@ -209,6 +209,7 @@
 * [AWS WAF Security Automations](https://github.com/awslabs/aws-waf-security-automations)
 ## Misc
 * Other Awesome Lists
+  * [Awesome Cloud Cost Control](https://github.com/Funkmyster/awesome-cloud-cost-control)
   * [Awesome Cloud Native Security](https://github.com/brant-ruan/awesome-cloud-native-security)
   * [Awesome Cloud Security](https://github.com/Funkmyster/awesome-cloud-security)
   * [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
