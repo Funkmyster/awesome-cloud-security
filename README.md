@@ -149,6 +149,9 @@
 * [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
 ### Data Loss Prevention
 * [Git Secrets by AWS Labs](https://github.com/awslabs/git-secrets)
+### Firewall Management
+* globaldatanet
+  * [AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory)
 ### Identity and Access Management
 * AWS Labs
   * [AWS IAM Generator](https://github.com/awslabs/aws-iam-generator)
