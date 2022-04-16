@@ -14,6 +14,7 @@
   * [Courses](#courses)
   * [Labs](#labs)
   * [Podcasts](#podcasts)
+  * [Vulnerable by Design](#vulnerable-by-design)
 * [Certifications](#certifications)
 * [Projects](#projects)
   * [Alerting](#alerting)
@@ -129,6 +130,10 @@
 ### Podcasts
 * [Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com)
 * [Security Now](https://twit.tv/shows/security-now)
+### Vulnerable By Design
+* [CloudGoat by Rhino Security Labs](https://github.com/RhinoSecurityLabs/cloudgoat)
+* [ServerlessGoat by OWASP](https://github.com/OWASP/Serverless-Goat)
+* [WrongSecrets by OWASP](https://github.com/commjoen/wrongsecrets)
 ## Certifications
 * Cloud Vendors
   * [AWS Certified Security Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
