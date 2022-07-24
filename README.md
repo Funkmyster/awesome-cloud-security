@@ -150,6 +150,8 @@
 * [411 by Etsy](https://github.com/etsy/411)
 * [ElastAlert by Yelp](https://github.com/Yelp/elastalert)
 * [StreamAlert by Airbnb](https://github.com/airbnb/streamalert)
+### Automated Security Assessment
+* [Prowler](https://github.com/prowler-cloud/prowler)
 ### Benchmarking
 * [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
 ### Data Loss Prevention
