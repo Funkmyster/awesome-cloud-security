@@ -202,6 +202,8 @@
   * [PagerDuty Stakeholder Communication Docs](https://github.com/PagerDuty/stakeholder-comms-docs)
 ### Spring
 * [Spring Cloud Security](https://github.com/dschadow/CloudSecurity)
+### Threat modeling
+* [ThreatModel for Amazon S3](https://github.com/trustoncloud/threatmodel-for-aws-s3) - Library of all the attack scenarios on Amazon S3 and how to mitigate them, following a risk-based approach
 ## Examples
 ### Ex. Automated Security Assessment
 * [AWS Config Rules Repository](https://github.com/awslabs/aws-config-rules)
