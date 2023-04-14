@@ -201,6 +201,8 @@
   * [PagerDuty PostMortem Docs](https://github.com/PagerDuty/postmortem-docs)
   * [PagerDuty Retrospectives Docs](https://github.com/PagerDuty/retrospectives-docs)
   * [PagerDuty Stakeholder Communication Docs](https://github.com/PagerDuty/stakeholder-comms-docs)
+* Velocidex
+  * [Velociraptor](https://github.com/Velocidex/velociraptor) 
 ### Spring
 * [Spring Cloud Security](https://github.com/dschadow/CloudSecurity)
 ### Threat modeling
