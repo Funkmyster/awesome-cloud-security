@@ -46,6 +46,7 @@
 * [Cloudsploit](https://github.com/aquasecurity/cloudsploit)
 * [ManageIQ by RedHat](https://github.com/ManageIQ/manageiq)
 * [Mist.io](https://github.com/mistio/mist-ce)
+* [NeuVector](https://github.com/neuvector/neuvector)
 * [Triton by Joyent](https://github.com/joyent/triton)
 ## Kubernetes Operators
 * Aqua
