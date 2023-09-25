@@ -130,6 +130,7 @@
   * [PagerDuty Training for Everyone: Part 2](https://sudo.pagerduty.com/for_everyone_part_ii/)
 ### Podcasts
 * [Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com)
+* [Cloud Security Podcast by Google](https://cloud.withgoogle.com/cloudsecurity/podcast/)
 * [Security Now](https://twit.tv/shows/security-now)
 ### Vulnerable By Design
 * [CloudGoat by Rhino Security Labs](https://github.com/RhinoSecurityLabs/cloudgoat)
