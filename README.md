@@ -117,7 +117,7 @@
   * [Implementing DDoS Resiliency](https://ddos-protection-best-practices.workshop.aws/)
   * [Infrastructure Identity on AWS](https://idm-infrastructure.awssecworkshops.com/)
   * [Integrating security into your container pipeline](https://container-devsecops.awssecworkshops.com/)
-  * [Integration, Prioritization, and Response with AWS Security Hub](https://security-hub-workshop.awssecworkshops.com/)
+  * [Integration, Prioritization, and Response with AWS Security Hub](https://pages.awscloud.com/Integration-Prioritization-and-Response-with-AWS-Security-Hub_2022_VW_s38e03-SID_OD)
   * [Introduction to WAF](https://introduction-to-waf.workshop.aws/)
   * [Permission boundaries: how to delegate permissions on AWS](https://identity-round-robin.awssecworkshops.com/permission-boundaries-advanced/)
   * [Protecting workloads on AWS from the instance to the edge](https://protecting-workloads.awssecworkshops.com/workshop/)
