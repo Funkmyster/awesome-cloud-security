@@ -82,6 +82,7 @@
   * [vchinnipilli - Kubestriker](https://github.com/vchinnipilli/kubestriker)
 ## Cloud Security Standards
 * [ISO/IEC 27017:2015](https://www.iso.org/standard/43757.html)
+* [ISO/IEC 27018:2019](https://www.iso.org/standard/76559.html)
 * [MTCS SS 584](https://www.imda.gov.sg/industry-development/infrastructure/ict-standards-and-frameworks/mtcs-certification-scheme/multi-tier-cloud-security-certified-cloud-services)
 * [CCM](https://cloudsecurityalliance.org/group/cloud-controls-matrix)
 * [NIST 800-53](https://nvd.nist.gov/800-53)
@@ -154,6 +155,18 @@
 * [StreamAlert by Airbnb](https://github.com/airbnb/streamalert)
 ### Automated Security Assessment
 * [Prowler](https://github.com/prowler-cloud/prowler)
+* [CloudFox](https://github.com/BishopFox/CloudFox)
+* [SkyArk](https://github.com/cyberark/SkyArk)
+* [Pacu](https://github.com/RhinoSecurityLabs/pacu)
+* [Bucket Finder](https://digi.ninja/projects/bucket_finder.php)
+* [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+* [Principal Mapper](https://github.com/nccgroup/PMapper)
+* [ScoutSuite](https://github.com/nccgroup/ScoutSuite/wiki)
+* [s3_objects_check](https://github.com/nccgroup/s3_objects_check)
+* [cloudsplaining](https://github.com/salesforce/cloudsplaining)
+* [weirdAAL](https://github.com/carnal0wnage/weirdAAL/wiki)
+* [cloudmapper](https://github.com/duo-labs/cloudmapper)
+* [NetSPI/AWS_Consoler](https://github.com/NetSPI/aws_consoler)
 ### Benchmarking
 * [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
 ### Data Loss Prevention
