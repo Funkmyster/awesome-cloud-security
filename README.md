@@ -92,6 +92,7 @@
   * [Snyk - Snyk Operator](https://operatorhub.io/operator/snyk-operator)
   * [Splunk - Splunk Operator for Kubernetes](https://operatorhub.io/operator/splunk)
   * [Sysdig - Sysdig Agent Operator](https://operatorhub.io/operator/sysdig)
+  * [Vulert](https://vulert.com)
 
 ## Container Tools
 * Anchore
