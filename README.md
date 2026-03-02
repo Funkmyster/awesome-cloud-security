@@ -189,6 +189,7 @@
 ### Automated Security Assessment
 * [Prowler](https://github.com/prowler-cloud/prowler)
 * [CloudFox](https://github.com/BishopFox/CloudFox)
+* [CloudSecure](https://github.com/carlosinfantes/cloudsecure) - AWS security assessment platform with AI-powered analysis, Prowler integration, and automated CIS benchmark scanning
 * [SkyArk](https://github.com/cyberark/SkyArk)
 * [Pacu](https://github.com/RhinoSecurityLabs/pacu)
 * [Bucket Finder](https://digi.ninja/projects/bucket_finder.php)
