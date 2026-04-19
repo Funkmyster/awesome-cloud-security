@@ -187,6 +187,8 @@
 * [ElastAlert by Yelp](https://github.com/Yelp/elastalert)
 * [StreamAlert by Airbnb](https://github.com/airbnb/streamalert)
 ### Automated Security Assessment
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 * [Prowler](https://github.com/prowler-cloud/prowler)
 * [CloudFox](https://github.com/BishopFox/CloudFox)
 * [SkyArk](https://github.com/cyberark/SkyArk)
