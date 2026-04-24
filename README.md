@@ -33,6 +33,7 @@
   * [Other Awesome Lists](#other-awesome-lists)
 * [Contribute](#contribute)
 * [License](#license)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 ## Public Cloud Governance
 ### AWS Governance
 * [AWS CloudFormation Guard](https://github.com/aws-cloudformation/cloudformation-guard)
