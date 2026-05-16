@@ -187,6 +187,7 @@
 * [ElastAlert by Yelp](https://github.com/Yelp/elastalert)
 * [StreamAlert by Airbnb](https://github.com/airbnb/streamalert)
 ### Automated Security Assessment
+* [OpenShield](https://github.com/openshield-org/openshield)
 * [Prowler](https://github.com/prowler-cloud/prowler)
 * [CloudFox](https://github.com/BishopFox/CloudFox)
 * [SkyArk](https://github.com/cyberark/SkyArk)
