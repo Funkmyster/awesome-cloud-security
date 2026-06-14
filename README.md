@@ -162,6 +162,7 @@
   * [PagerDuty Training for Engineers](https://sudo.pagerduty.com/for_engineers/)
   * [PagerDuty Training for Everyone: Part 1](https://sudo.pagerduty.com/for_everyone/)
   * [PagerDuty Training for Everyone: Part 2](https://sudo.pagerduty.com/for_everyone_part_ii/)
+* [Kubernetes Security Lab](https://medium.com/@1200km/building-a-vulnerable-kubernetes-lab-a-complete-guide-to-25-critical-security-issues-fae4fc8e3a91) - Hands-on vulnerable Kubernetes lab guide covering privileged containers, hostPath mounts, exposed secrets, RBAC issues, and escape paths.
 ### Podcasts
 * [Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com)
 * [Cloud Security Podcast by Google](https://cloud.withgoogle.com/cloudsecurity/podcast/)
@@ -170,6 +171,7 @@
 * [CloudGoat by Rhino Security Labs](https://github.com/RhinoSecurityLabs/cloudgoat)
 * [ServerlessGoat by OWASP](https://github.com/OWASP/Serverless-Goat)
 * [WrongSecrets by OWASP](https://github.com/commjoen/wrongsecrets)
+* [Vulnerable Cloud Lab by 1200km](https://github.com/anpa1200/vulnerable-cloud-lab)
 ## Certifications
 * Cloud Vendors
   * [AWS Certified Security Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
@@ -199,6 +201,7 @@
 * [cloudsplaining](https://github.com/salesforce/cloudsplaining)
 * [weirdAAL](https://github.com/carnal0wnage/weirdAAL/wiki)
 * [cloudmapper](https://github.com/duo-labs/cloudmapper)
+* [StratusAI](https://github.com/anpa1200/stratus-ai)
 * [NetSPI/AWS_Consoler](https://github.com/NetSPI/aws_consoler)
 ### Benchmarking
 * [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
