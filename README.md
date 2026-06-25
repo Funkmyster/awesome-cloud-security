@@ -200,6 +200,7 @@
 * [weirdAAL](https://github.com/carnal0wnage/weirdAAL/wiki)
 * [cloudmapper](https://github.com/duo-labs/cloudmapper)
 * [NetSPI/AWS_Consoler](https://github.com/NetSPI/aws_consoler)
+* [Cynative](https://github.com/cynative/cynative)
 ### Benchmarking
 * [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
 ### Data Loss Prevention
