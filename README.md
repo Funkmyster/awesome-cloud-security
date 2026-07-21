@@ -90,6 +90,7 @@
   * [Falco Security - Falco Operator](https://operatorhub.io/operator/falco)
   * [Quay - Project Quay Container Security](https://operatorhub.io/operator/project-quay-container-security-operator)
   * [Snyk - Snyk Operator](https://operatorhub.io/operator/snyk-operator)
+  * [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting platform (GPL-3.0) covering web, AD and Kubernetes, where the LLM never sees real IPs or credentials (local privacy gateway).
   * [Splunk - Splunk Operator for Kubernetes](https://operatorhub.io/operator/splunk)
   * [Sysdig - Sysdig Agent Operator](https://operatorhub.io/operator/sysdig)
 
