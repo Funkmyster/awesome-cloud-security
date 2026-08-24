@@ -76,6 +76,7 @@
 ### MultiCloud Governance
 * [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian)
 * [CloudQuary](https://github.com/cloudquery/cloudquery)
+* [stackql](https://github.com/stackql/stackql)
 * [Cloudsploit](https://github.com/aquasecurity/cloudsploit)
 * [ManageIQ by RedHat](https://github.com/ManageIQ/manageiq)
 * [Mist.io](https://github.com/mistio/mist-ce)
